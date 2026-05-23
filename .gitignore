@@ -1,0 +1,11 @@
+target/
+*.class
+*.jar
+*.sh
+*.txt
+*.dat
+com/
+.sublime-workspace
+.DS_Store
+.idea/
+.vscode/
